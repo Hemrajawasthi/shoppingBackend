@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopping",
+    "\\shopping\\Controllers",
+    "\\shopping\\DataAccess",
+    "\\shopping\\Models",
+    "\\shopping\\Views"
+  ],
+  "SelectedNode": "\\shopping\\Controllers\\CategoryController.cs",
+  "PreviewInSolutionExplorer": false
+}
